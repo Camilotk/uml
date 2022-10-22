@@ -16,3 +16,6 @@ Repositório que contêm meus trabalhos feitos para a Disciplina de UML para a P
 - Introduzindo conceitos de arquitetura de software, diagramas e camadas da arquitetura de software. 
 - Visão geral do uso de Frameworks. 
 - Visão geral de Processos de Desenvolvimento de Software.
+
+## Exercícios
+-[Exercício 1](./exercicio1)
