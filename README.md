@@ -18,4 +18,10 @@ Repositório que contêm meus trabalhos feitos para a Disciplina de UML para a P
 - Visão geral de Processos de Desenvolvimento de Software.
 
 ## Exercícios
--[Exercício 1](./exercicio1)
+- [Exercício 1](./exercicio1)
+- [Exercício 2](./exercicio2)
+- [Exercício 3](./exercicio3)
+- [Exercício 4](./exercicio4)
+- [Exercício 5](./exercicio5)
+- [Exercício 6](./exercicio6)
+- [Web Conf](./webconf)
